@@ -29,7 +29,7 @@ The project provides valuable insights into various aspects of billionaire stati
 
 The Power BI project file (.pbix) used for this analysis is available in the repository:
 
-- **Power BI Project File:** [BIAnalysis.pbix](link-to-your-power-bi-project-file)
+- **Power BI Project File:** [BIAnalysis.pbix](BIAnalysis.pbix)
 
 ## How to Use
 
