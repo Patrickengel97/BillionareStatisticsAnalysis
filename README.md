@@ -35,7 +35,7 @@ The Power BI project file (.pbix) used for this analysis is available in the rep
 
 To explore the analysis and visualizations:
 
-1. Download the Power BI project file (`BI.pbix`) from the provided link.
+1. Download the Power BI project file (`BIAnalysis.pbix`) from the provided link.
 2. Open the file using Power BI Desktop.
 3. Navigate through the different visuals and tabs to gain insights from the analysis.
 
