@@ -41,7 +41,7 @@ To explore the analysis and visualizations:
 
 ## Report and Discussion
 
-For a detailed overview, insights, and discussion, refer to the [Report.docx](link-to-report-document).
+For a detailed overview, insights, and discussion, refer to the [ReportPDF.pdf](ReportPDF.pdf).
 
 ## Contributors
 
