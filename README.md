@@ -1,5 +1,3 @@
-# BillionareStatisticsAnalysis
-
 # Billionaire Statistics Data Analysis Project
 
 ## Overview
